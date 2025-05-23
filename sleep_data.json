@@ -1,0 +1,19 @@
+[
+    {
+        "sleep_time": "22:00",
+        "wake_time": "04:30",
+        "duration": "6:30:00"
+    },
+    {
+        "date": "2024-12-24",
+        "sleep_time": "22:00",
+        "wake_time": "07:30",
+        "duration": "9:30:00"
+    },
+    {
+        "date": "2024-12-24",
+        "sleep_time": "23:30",
+        "wake_time": "06:45",
+        "duration": "7:15:00"
+    }
+]

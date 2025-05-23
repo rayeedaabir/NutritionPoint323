@@ -1,0 +1,18 @@
+[
+    {
+        "meal": "Rice with Meat",
+        "calories": 1300
+    },
+    {
+        "meal": "Noodles",
+        "calories": 450
+    },
+    {
+        "meal": "Oreo Ice-cream",
+        "calories": 250
+    },
+    {
+        "meal": "Omelette",
+        "calories": 154
+    }
+]
